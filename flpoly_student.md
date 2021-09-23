@@ -4,13 +4,12 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Intro to Data Science
-
-- Precalculus Algebra/Trigonometry
-
-- Introduction to Programming With Python
-
-- Foundations for Academic Success
+| Prefix| Number | Name|                  Credits|
+| :---: | :---:   | :---: | :---: |
+|**COP**| **2073**|   *Intro to Data Science*|            3|
+|**MAC**| **1147**|   *Pre-Calculus*  |                     4|
+|**COP**| **2034**|   *Intro to Python* |                  3|
+|**SLS**| **1901**|   *Foundations For Academic Success* | 0|
 
 **Hobbies:**
 
